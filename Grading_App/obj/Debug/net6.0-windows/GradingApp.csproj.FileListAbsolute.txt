@@ -1,0 +1,16 @@
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\bin\Debug\net6.0-windows\GradingApp.exe
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\bin\Debug\net6.0-windows\GradingApp.deps.json
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\bin\Debug\net6.0-windows\GradingApp.runtimeconfig.json
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\bin\Debug\net6.0-windows\GradingApp.dll
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\bin\Debug\net6.0-windows\GradingApp.pdb
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.Form1.resources
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.csproj.GenerateResource.cache
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.AssemblyInfoInputs.cache
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.AssemblyInfo.cs
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.csproj.CoreCompileInputs.cache
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.dll
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\refint\GradingApp.dll
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.pdb
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\GradingApp.genruntimeconfig.cache
+D:\UB\CPSC501 - OOPs\Assignment1\GradingApp\GradingApp\obj\Debug\net6.0-windows\ref\GradingApp.dll
