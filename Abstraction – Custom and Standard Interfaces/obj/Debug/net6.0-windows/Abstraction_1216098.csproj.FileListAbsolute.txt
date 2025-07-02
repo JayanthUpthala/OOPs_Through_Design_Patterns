@@ -1,0 +1,16 @@
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\bin\Debug\net6.0-windows\Abstraction_1216098.exe
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\bin\Debug\net6.0-windows\Abstraction_1216098.deps.json
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\bin\Debug\net6.0-windows\Abstraction_1216098.runtimeconfig.json
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\bin\Debug\net6.0-windows\Abstraction_1216098.dll
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\bin\Debug\net6.0-windows\Abstraction_1216098.pdb
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.Form1.resources
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.csproj.GenerateResource.cache
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.GeneratedMSBuildEditorConfig.editorconfig
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.AssemblyInfoInputs.cache
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.AssemblyInfo.cs
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.csproj.CoreCompileInputs.cache
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.dll
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\refint\Abstraction_1216098.dll
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.pdb
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\Abstraction_1216098.genruntimeconfig.cache
+D:\UB\CPSC501 - OOPs\Assignment2\Abstraction_1216098\obj\Debug\net6.0-windows\ref\Abstraction_1216098.dll
