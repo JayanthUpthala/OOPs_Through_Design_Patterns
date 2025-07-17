@@ -1,0 +1,50 @@
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.exe
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.deps.json
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.runtimeconfig.json
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.Form1.resources
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.GenerateResource.cache
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfo.cs
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\refint\BridgePattern.dll
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.genruntimeconfig.cache
+C:\Users\14795\Documents\Summer_2023\OOPs_CPSC501\Assignment_6\BridgePattern\obj\Debug\net7.0-windows\ref\BridgePattern.dll
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.exe
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.deps.json
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.runtimeconfig.json
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.AssemblyReference.cache
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.Form1.resources
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.GenerateResource.cache
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfo.cs
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\refint\BridgePattern.dll
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.genruntimeconfig.cache
+C:\Users\RAMA KRISHNA\OneDrive\Desktop\ccpics\Assignment_6 (3)\Assignment_6 (3)\BridgePattern\obj\Debug\net7.0-windows\ref\BridgePattern.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.exe
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.deps.json
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.runtimeconfig.json
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.Form1.resources
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.GenerateResource.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfoInputs.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.AssemblyInfo.cs
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.csproj.CoreCompileInputs.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\refint\BridgePattern.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.pdb
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.genruntimeconfig.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\ref\BridgePattern.dll

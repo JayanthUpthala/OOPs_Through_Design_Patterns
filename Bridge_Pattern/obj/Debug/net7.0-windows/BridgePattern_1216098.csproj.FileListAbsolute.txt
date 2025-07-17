@@ -1,0 +1,16 @@
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern_1216098.exe
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern_1216098.deps.json
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern_1216098.runtimeconfig.json
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern_1216098.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\bin\Debug\net7.0-windows\BridgePattern_1216098.pdb
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern.Form1.resources
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.csproj.GenerateResource.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.AssemblyInfoInputs.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.AssemblyInfo.cs
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.csproj.CoreCompileInputs.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\refint\BridgePattern_1216098.dll
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.pdb
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\BridgePattern_1216098.genruntimeconfig.cache
+C:\Users\jayanth\Downloads\oops_Assignment_6_1169123\oops_Assignment_6_1169123\BridgePattern\obj\Debug\net7.0-windows\ref\BridgePattern_1216098.dll
